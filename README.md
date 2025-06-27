@@ -1,4 +1,4 @@
-## Hi there 👋
+
 # 💫 About Me:
 Actualmente estoy estudiando Tecnicatura Universitaria en Programación en UTN FRSR
 
